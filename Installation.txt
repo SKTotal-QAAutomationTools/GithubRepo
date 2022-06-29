@@ -2,3 +2,4 @@ steps to follow
 1. Download the softwars.
 2. Clic on executables.
 3. Perform the steps
+4. Validate the Installation is successful.
