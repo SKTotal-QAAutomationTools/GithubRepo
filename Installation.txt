@@ -3,3 +3,4 @@ steps to follow
 2. Clic on executables.
 3. Perform the steps
 4. Validate the Installation is successful.
+5. Check the contents of the directory in the programfiles.
